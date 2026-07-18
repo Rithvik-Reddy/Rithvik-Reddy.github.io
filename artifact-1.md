@@ -25,8 +25,6 @@ This artifact documents a chatbot I designed to help with that gap. A Behavioral
 
 The bot asks a behavioral question, waits, then scores the answer against the STAR method (Situation, Task, Action, Result). Feedback follows a fixed shape: one strength, one specific gap, and a rewrite of the single weakest component.
 
-Under the hood sit a system prompt and five knowledge documents.
-
 The STAR framework document defines each component with paired strong and weak examples, plus seven common failure patterns. The question bank holds forty behavioral questions across conflict, failure, leadership, and teamwork, each tagged with what the interviewer tests and what a red flag answer sounds like. The scoring rubric sets three tiers per STAR component. The sample answers file carries four annotated examples, including one humble brag the bot has to catch. The boundary responses file scripts ten refusals covering scope, privacy, and instruction override.
 
 A test matrix accompanies the build. Twelve scenarios, one per behavioral rule, each with a named input and an expected behavior. All twelve passed on the live bot.
@@ -82,9 +80,6 @@ Responses ran past 400 words. The bot reviewed all four STAR components at once,
 - STAR method, as the backbone of the knowledge base
 - Claude Opus, to draft the knowledge documents and generate the test scenarios, which I then verified against published career center guidance
 - Published guidance from MIT, University of Washington, Harvard Medical School, University of Florida, University of Arkansas, and Wichita State, as the source material behind the question bank
-- Microsoft Word, for the lab documentation deliverable
-
-AI use disclosure. I used Claude Opus to draft the five knowledge documents and the twelve test cases. I verified every claim in those documents against the university career center sources listed above. The bot design, the prohibition list, the constraints, and the iteration decisions are mine.
 
 ---
 
