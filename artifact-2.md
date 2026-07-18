@@ -74,10 +74,6 @@ That habit generalizes past these two examples. Any team choosing between a simp
 
 ---
 
-## Evidence
-
-[REPLACE: Attach the full report as a downloadable file in assets/ if your instructor wants one, e.g. `assets/ml-vs-dl-report.docx`, and link it here as done in Artifact 1.]
-
 ### Simple Machine Learning: Credit Scoring for Loan Approval
 
 Banks and lenders predict loan default risk with machine learning. A logistic regression or decision tree model scores each applicant, reading structured features like income, credit history, debt-to-income ratio, and payment history, and labeling the applicant low risk or high risk.
