@@ -18,6 +18,7 @@ I am a  Software Engineer working at the intersection of backend systems, cloud 
 ## Personal Value Proposition
 
 I build production systems in enterprise environments, where auditability and reliability carry the same weight as performance. My background spans distributed backend engineering, AWS infrastructure, and applied AI integration, so I can take a model from prototype to a system that survives compliance review. 
+
 ---
 
 ## Portfolio Artifacts
