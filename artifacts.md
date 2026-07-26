@@ -25,4 +25,12 @@ Workshop 2 | A comparison report matching two AI methods to two real-world probl
 
 ---
 
+## Artifact 3: Supervised Learning Under Questioning
+
+Workshop 3 | A transcript of a tutoring conversation applying the three-stage supervised learning workflow (data input, training, prediction) to a spam filter and a regulated bank loan approval system.
+
+[View artifact](artifact-3.md)
+
+---
+
 [Back to home](index.md)

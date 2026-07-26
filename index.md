@@ -27,6 +27,7 @@ Each artifact documents a piece of work, the process behind it, and the value it
 
 - [Artifact 1: Behavioral Interview Coach](artifact-1.md)
 - [Artifact 2: Machine Learning versus Deep Learning](artifact-2.md)
+- [Artifact 3: Supervised Learning Under Questioning](artifact-3.md)
 
 ---
 
