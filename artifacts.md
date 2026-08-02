@@ -33,4 +33,12 @@ Workshop 3 | A transcript of a tutoring conversation applying the three-stage su
 
 ---
 
+## Artifact 4: Diagnosing Data Quality
+
+Workshop 4 | A tutoring conversation working through three data-quality scenarios — missing values, class imbalance in fraud detection, and post-deployment model drift — and the diagnostic reasoning behind each fix.
+
+[View artifact](artifact-4.md)
+
+---
+
 [Back to home](index.md)
