@@ -21,6 +21,14 @@ I build production systems in enterprise environments, where auditability and re
 
 ---
 
+## Target Audience
+
+This portfolio is built for two overlapping audiences: hiring managers and technical interviewers evaluating software engineers for applied AI roles, and engineering leaders at organizations in regulated industries — financial services, healthcare, insurance — deciding whether to bring AI features into systems that already answer to compliance and audit requirements.
+
+Both audiences share the same underlying question: can this person move an AI system past a demo and into something that survives production, review, and scrutiny? Each artifact here documents a real decision — how a model is evaluated, what a system is built to refuse, how a pipeline stays consistent between training and serving — rather than a finished product with the reasoning stripped out. That's the evidence this audience is actually looking for.
+
+---
+
 ## Portfolio Artifacts
 
 Each artifact documents a piece of work, the process behind it, and the value it delivers.
